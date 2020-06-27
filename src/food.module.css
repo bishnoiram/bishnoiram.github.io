@@ -1,0 +1,13 @@
+.food{
+    width: 30rem;
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    box-shadow: 2rem 3rem 5rem #aaa;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
