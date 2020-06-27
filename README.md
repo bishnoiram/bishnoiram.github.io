@@ -1,6 +1,6 @@
 ## React Recipe 
 
-A simple React web application that uses the Edamam API to search and display recipes. 
+react recipe finder using edman api created by ramniwash bishnoi still in development to serve you better. 
 
 
 <img src="https://github.com/bishnoiram/recipe-finder/blob/master/public/Capture.PNG">
@@ -8,4 +8,4 @@ A simple React web application that uses the Edamam API to search and display re
 
 ## Demo 
 
-Try out the demo [here](https://bishnoiram.github.io/recipe-finder/).
+demo [here](https://bishnoiram.github.io/recipe-finder/).
